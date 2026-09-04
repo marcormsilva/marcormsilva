@@ -1,8 +1,10 @@
-<div>
+<div align="center">
   <a href="https://github.com/marcormsilva">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcormsilva&show_icons=true&theme=radical"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcormsilva&layout=compact&langs_count=6&theme=radical"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=marcormsilva&show_icons=true&theme=radical"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcormsilva&layout=compact&langs_count=6&theme=radical"/>
+  </a>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
